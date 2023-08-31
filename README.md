@@ -26,3 +26,7 @@ This repository contains WIP scripts I created for a collaborative project in Au
 
 ## File Structure
 Each file has a set of comments at the beginning determining a tree of its children in the original project and what types they were. If a Script or LocalScript had script children in the original project, a directory has been created with the same identifier as the parent, and the parent itself has been included within.
+
+## Previews
+![alt text](https://github.com/shmove/roblox-melee-movement-system/raw/main/fighting.gif "Fighting Preview")
+![alt text](https://github.com/shmove/roblox-melee-movement-system/raw/main/blocking.gif "Blocking Preview")
